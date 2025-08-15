@@ -2698,6 +2698,7 @@ alairy
 alala
 alalas
 alalia
+alalite
 alameda
 alamedas
 alamode
@@ -3316,6 +3317,7 @@ also
 alstroemeria
 alstroemerias
 alt
+altaite
 altar
 altarpiece
 altarpieces
@@ -5866,7 +5868,6 @@ apatosaur
 apatosaurs
 apatosaurus
 apatosauruses
-apay
 apays
 ape
 apeak
@@ -5896,7 +5897,6 @@ apery
 apes
 apetalies
 apetalous
-apetaly
 apex
 apexes
 aphaereses
@@ -6224,7 +6224,6 @@ aptitude
 aptitudes
 aptitudinal
 aptly
-aptote
 apts
 apyrase
 apyrases
@@ -7903,6 +7902,7 @@ aulas
 auld
 aulder
 auldest
+aulete
 aulic
 aulos
 aum
@@ -8345,7 +8345,6 @@ auxotrophic
 auxotrophies
 auxotrophs
 auxotrophy
-ava
 avadavat
 avadavats
 avail
@@ -8356,12 +8355,10 @@ availably
 availed
 availing
 avails
-aval
 avalanche
 avalanched
 avalanches
 avalanching
-avale
 avant
 avarice
 avarices
@@ -8424,6 +8421,7 @@ avgas
 avgases
 avgolemono
 avgolemonos
+avi
 avian
 avianize
 avianized
@@ -8607,7 +8605,6 @@ awols
 awork
 awrong
 awry
-axal
 axe
 axed
 axel
@@ -8672,7 +8669,6 @@ ayahs
 ayahuasca
 ayahuascas
 aye
-ayelp
 ayes
 ayins
 ayont
@@ -40086,7 +40082,6 @@ elates
 elating
 elation
 elations
-elative
 elatives
 elbow
 elbowed
@@ -40528,9 +40523,6 @@ elutriation
 elutriations
 elutriator
 elutriators
-eluvia
-eluvial
-eluviate
 eluviated
 eluviates
 eluviating
@@ -42498,7 +42490,6 @@ epater
 epatered
 epatering
 epaters
-epaule
 epaulet
 epauleted
 epaulets
@@ -42892,6 +42883,7 @@ eponymous
 eponyms
 eponymy
 epopoeias
+epoque
 epos
 eposes
 epoxidation
@@ -43605,7 +43597,6 @@ etamin
 etamine
 etamines
 etamins
-etape
 etapes
 etas
 etat
@@ -44258,7 +44249,6 @@ everywhere
 everywoman
 everywomen
 eves
-evet
 evets
 evict
 evicted
@@ -44382,6 +44372,7 @@ exahertzes
 exalt
 exaltation
 exaltations
+exalte
 exalted
 exaltedly
 exalter
@@ -44419,7 +44410,6 @@ exanthems
 exaptation
 exaptations
 exapted
-exaptive
 exarch
 exarchal
 exarchate
@@ -45700,7 +45690,6 @@ exude
 exuded
 exudes
 exuding
-exul
 exuls
 exult
 exultance
@@ -45722,7 +45711,6 @@ exurbanites
 exurbia
 exurbias
 exurbs
-exuvia
 exuviae
 exuvial
 exuviate
@@ -45733,7 +45721,6 @@ exuviation
 exuviations
 exuvium
 exy
-eyalet
 eyas
 eye
 eyeable
@@ -70087,7 +70074,6 @@ lakiest
 laksa
 laksas
 laldy
-lalique
 laliques
 lam
 lama
@@ -70814,7 +70800,6 @@ lavaboes
 lavabos
 lavage
 lavages
-lavalava
 lavalavas
 lavalier
 lavaliere
@@ -88858,8 +88843,10 @@ opalescent
 opalescently
 opalesces
 opalescing
+opaleye
 opaline
 opalines
+opalite
 opals
 opaque
 opaqued
@@ -88952,6 +88939,7 @@ operons
 operose
 operosely
 opes
+opex
 ophidian
 ophidians
 ophiolite
@@ -89865,6 +89853,7 @@ otalgic
 otalgies
 otalgy
 otary
+otavite
 other
 others
 otherwhere
@@ -92711,6 +92700,7 @@ oxalis
 oxalises
 oxaloacetate
 oxaloacetates
+oxalyl
 oxazepam
 oxazepams
 oxazine
@@ -93265,6 +93255,7 @@ palatinate
 palatinates
 palatine
 palatines
+palative
 palaver
 palavered
 palaverer
@@ -93354,6 +93345,7 @@ palestrae
 palestral
 palestras
 palet
+paleta
 paletot
 paletots
 palets
@@ -93366,6 +93358,7 @@ palier
 paliest
 palikar
 palikars
+palilalia
 palimonies
 palimony
 palimpsest
@@ -93805,6 +93798,7 @@ papaya
 papayan
 papayas
 pape
+papelito
 paper
 paperback
 paperbacked
@@ -93846,6 +93840,7 @@ papery
 papes
 papeterie
 papeteries
+papey
 paphian
 paphians
 papier
@@ -94839,6 +94834,7 @@ patchworks
 patchy
 pate
 pated
+patel
 paten
 patencies
 patency
@@ -94868,6 +94864,7 @@ paternoster
 paternosters
 paters
 pates
+patete
 path
 pathbreaking
 pathetic
@@ -94915,6 +94912,7 @@ pathoses
 paths
 pathway
 pathways
+patia
 patience
 patiences
 patient
@@ -95075,6 +95073,7 @@ paver
 pavers
 paves
 pavid
+pavie
 pavilion
 pavilioned
 pavilioning
@@ -95097,6 +95096,7 @@ pavlovas
 pavone
 pavonine
 pavs
+pavy
 paw
 pawa
 pawas
@@ -95900,7 +95900,7 @@ pepino
 pepinos
 pepita
 pepitas
-pepla
+peple
 peplos
 peploses
 peplum
@@ -96799,6 +96799,7 @@ petahertzes
 petal
 petaled
 petaline
+petalite
 petalodies
 petalody
 petaloid
@@ -96845,6 +96846,7 @@ petitioner
 petitioners
 petitioning
 petitions
+petitive
 petnap
 petnaper
 petnapers
@@ -96936,7 +96938,6 @@ peyote
 peyotes
 peyotism
 peyotisms
-peyotl
 peyotls
 peyse
 peytral
@@ -99526,6 +99527,7 @@ plausibility
 plausible
 plausibly
 plausive
+plav
 play
 playa
 playabilities
@@ -99695,7 +99697,6 @@ pleinairist
 pleinairists
 pleiocene
 pleiotaxies
-pleiotaxy
 pleiotropic
 pleiotropies
 pleiotropy
@@ -99754,6 +99755,7 @@ pleromas
 plesh
 plesiosaur
 plesiosaurs
+plet
 plethora
 plethoras
 plethoric
@@ -99779,7 +99781,6 @@ pleustonic
 pleustons
 plew
 plews
-plex
 plexal
 plexes
 plexiform
@@ -99922,7 +99923,6 @@ plucking
 plucks
 plucky
 plud
-plue
 plues
 plug
 plughole
@@ -100023,6 +100023,7 @@ plunks
 plunky
 pluot
 pluots
+plup
 pluperfect
 pluperfects
 plural
@@ -100256,6 +100257,7 @@ poesy
 poet
 poetaster
 poetasters
+poete
 poetic
 poetical
 poeticise
@@ -100275,6 +100277,7 @@ poetiser
 poetisers
 poetises
 poetising
+poetito
 poetize
 poetized
 poetizer
@@ -101039,6 +101042,7 @@ pope
 popedom
 popedoms
 popelike
+popely
 poperies
 popery
 popes
@@ -101057,7 +101061,6 @@ poplars
 poplin
 poplins
 popliteal
-poplitei
 popliteus
 poplitic
 popo
@@ -101102,6 +101105,7 @@ populating
 population
 populational
 populations
+populi
 populism
 populisms
 populist
@@ -101660,7 +101664,6 @@ potage
 potages
 potai
 potail
-potale
 potamic
 potash
 potashes
@@ -101670,6 +101673,7 @@ potato
 potatobug
 potatobugs
 potatoes
+potatoey
 potator
 potatory
 potboil
@@ -101797,7 +101801,9 @@ poularde
 poulardes
 poulards
 poule
+poulet
 poulp
+poulpe
 poult
 poulter
 poulterer
@@ -101831,7 +101837,6 @@ pounder
 pounders
 pounding
 pounds
-poupe
 poupou
 pour
 pourable
@@ -101906,8 +101911,8 @@ poxing
 poxvirus
 poxviruses
 poxy
+poya
 poynt
-poyou
 poyous
 poyse
 poz
@@ -105918,7 +105923,6 @@ pulvinar
 pulvinate
 pulvini
 pulvinus
-puly
 puma
 pumas
 pumelo
@@ -106663,6 +106667,7 @@ qibla
 qiblas
 qigong
 qigongs
+qila
 qin
 qindar
 qindarka
@@ -106672,6 +106677,7 @@ qins
 qintar
 qintars
 qis
+qiviuq
 qiviut
 qiviuts
 qoph
@@ -106796,6 +106802,7 @@ quaintest
 quaintly
 quair
 quais
+quaite
 quake
 quaked
 quaker
@@ -106809,6 +106816,7 @@ quakingly
 quaky
 quale
 qualia
+qualie
 qualifiable
 qualification
 qualifications
@@ -106830,6 +106838,7 @@ qualmish
 qualmishly
 qualms
 qualmy
+qualy
 quamash
 quamashes
 quandang
@@ -106999,6 +107008,7 @@ qubit
 qubits
 qubyte
 qubytes
+que
 quean
 queans
 queasier
@@ -107010,6 +107020,7 @@ queaziest
 queazy
 quebracho
 quebrachos
+quel
 quelea
 queleas
 queme
@@ -107061,6 +107072,7 @@ questions
 questor
 questors
 quests
+quete
 quethe
 quetzal
 quetzales
@@ -107077,6 +107089,7 @@ queys
 quezal
 quezales
 quezals
+qui
 quiche
 quiches
 quick
@@ -107127,12 +107140,14 @@ quietisms
 quietist
 quietistic
 quietists
+quietive
 quietly
 quiets
 quietude
 quietudes
 quietus
 quietuses
+quila
 quilt
 quilted
 quilter
@@ -107290,6 +107305,7 @@ quixotry
 quiz
 quizmaster
 quizmasters
+quo
 quoad
 quod
 quodlibet
@@ -107297,6 +107313,7 @@ quodlibets
 quods
 quohog
 quohogs
+quoi
 quoif
 quoin
 quoined
@@ -107338,6 +107355,7 @@ quotient
 quotients
 quoting
 quotum
+quoy
 qursh
 qurshes
 qurush
@@ -132782,7 +132800,6 @@ talmudisms
 talon
 taloned
 talons
-talpa
 tals
 taluk
 taluka
@@ -133033,10 +133050,6 @@ tapestried
 tapestries
 tapestry
 tapestrying
-tapet
-tapeta
-tapetal
-tapeti
 tapetum
 tapetums
 tapeworm
@@ -133285,8 +133298,6 @@ tautonymies
 tautonyms
 tautonymy
 tauty
-tav
-tava
 tavas
 tavern
 taverna
@@ -133725,6 +133736,7 @@ teleology
 teleonomic
 teleonomies
 teleonomy
+teleoptile
 teleost
 teleostean
 teleosteans
@@ -133786,6 +133798,7 @@ telestic
 telestich
 telestichs
 telestics
+teletex
 teletext
 teletexts
 telethon
@@ -133832,7 +133845,6 @@ telfering
 telfers
 telford
 telfords
-telial
 telic
 telicities
 telicity
@@ -134172,7 +134184,6 @@ teopan
 teopans
 teosinte
 teosintes
-tepa
 tepache
 tepaches
 tepal
@@ -134191,7 +134202,6 @@ tepid
 tepidities
 tepidity
 tepidly
-tepoy
 tepoys
 tequila
 tequilas
@@ -134527,6 +134537,7 @@ texas
 texases
 texes
 text
+texta
 texted
 texter
 texters
@@ -136164,7 +136175,6 @@ titulars
 titulary
 titwank
 titwanks
-tivy
 tix
 tiyin
 tiyins
@@ -136250,7 +136260,6 @@ toenails
 toepick
 toepiece
 toepieces
-toeplate
 toeplates
 toerag
 toerags
@@ -136627,7 +136636,6 @@ topworking
 topworks
 toque
 toques
-toquet
 toquets
 tor
 torah
@@ -140051,7 +140059,6 @@ ulcerous
 ulcers
 ulema
 ulemas
-ulex
 ulexite
 ulexites
 ulmo
@@ -140286,7 +140293,6 @@ ululations
 ulus
 ulva
 ulvas
-ulyie
 umami
 umamis
 umangite
@@ -144117,7 +144123,6 @@ upthrusting
 upthrusts
 uptick
 upticks
-uptie
 uptight
 uptilted
 uptilting
@@ -144496,7 +144501,6 @@ utricles
 utricular
 utriculi
 utriculus
-uva
 uvae
 uvarovite
 uvarovites
@@ -144656,6 +144660,8 @@ valerians
 valeric
 vales
 valet
+valeta
+valete
 valeted
 valeting
 valets
@@ -144668,7 +144674,6 @@ valetudinary
 valgoid
 valgus
 valguses
-vali
 valiance
 valiances
 valiancies
@@ -144726,6 +144731,7 @@ valuating
 valuation
 valuational
 valuations
+valuative
 valuator
 valuators
 value
@@ -144856,6 +144862,7 @@ vantage
 vantages
 vants
 vanward
+vape
 vapid
 vapidities
 vapidity
@@ -145078,6 +145085,7 @@ vastly
 vasts
 vasty
 vat
+vata
 vatful
 vatfuls
 vatic
@@ -145094,10 +145102,10 @@ vaticinations
 vaticinator
 vaticinators
 vatman
+vato
 vats
 vatu
 vatus
-vau
 vault
 vaulted
 vaulter
@@ -145136,6 +145144,7 @@ vaward
 vawards
 vawntie
 vaws
+vax
 veal
 vealed
 vealer
@@ -145215,6 +145224,8 @@ veilers
 veiling
 veilings
 veils
+veiltail
+veily
 vein
 veinal
 veined
@@ -145248,7 +145259,6 @@ velarized
 velarizes
 velarizing
 velars
-velate
 velcro
 velcros
 veld
@@ -145259,7 +145269,6 @@ veles
 veleta
 veliger
 veligers
-velite
 velites
 veloce
 velocimeter
@@ -145813,6 +145822,7 @@ veterinarian
 veterinarians
 veterinaries
 veterinary
+vetitive
 vetiver
 vetivers
 vetivert
@@ -145824,6 +145834,7 @@ vetoers
 vetoes
 vetoing
 vets
+veuve
 veve
 vex
 vexation
@@ -145839,7 +145850,6 @@ vexil
 vexils
 vexing
 vexingly
-vext
 vey
 vezir
 via
@@ -146053,6 +146063,7 @@ vie
 vied
 viers
 vies
+vieux
 view
 viewable
 viewdata
@@ -146111,6 +146122,7 @@ vihuela
 vihuelas
 viking
 vikings
+vilayati
 vilayet
 vilayets
 vile
@@ -146527,7 +146539,6 @@ vitamines
 vitaminic
 vitamins
 vitas
-vite
 vitex
 vitiable
 vitiate
@@ -146599,7 +146610,6 @@ vivat
 vivats
 vivda
 vive
-vively
 vivendi
 viverid
 viverids
@@ -147107,6 +147117,7 @@ vulnerary
 vulning
 vulns
 vulpine
+vult
 vulture
 vultures
 vulturine
@@ -150086,6 +150097,7 @@ xlnt
 xoana
 xoanon
 xolo
+xvi
 xylan
 xylans
 xylem
@@ -150368,7 +150380,6 @@ yelper
 yelpers
 yelping
 yelps
-yelt
 yelts
 yen
 yens
@@ -150423,11 +150434,11 @@ yeuked
 yeuking
 yeuks
 yeuky
+yeux
 yeves
 yew
 yewen
 yews
-yex
 yexes
 yez
 yfere
@@ -150454,7 +150465,6 @@ yipes
 yips
 yirth
 yirths
-yite
 yites
 ylem
 ylems
@@ -150554,6 +150564,7 @@ yonker
 yonkers
 yonks
 yont
+yopo
 yore
 yores
 york
