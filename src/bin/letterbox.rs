@@ -11,7 +11,7 @@ fn main() {
     }
     let words = load_words();
     let puzzle = Puzzle::new(args[1].as_bytes());
-    let pairs = puzzle.solutions(&words);
+    let pairs = puzzle.solutions(words);
     for pair in pairs {
         println!(
             "{} - {}",

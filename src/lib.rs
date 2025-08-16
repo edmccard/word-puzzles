@@ -1,17 +1,26 @@
+use std::borrow::Cow;
+use std::sync::LazyLock;
+
 use rust_embed::Embed;
 
 pub mod letterbox;
+
+static DICT: LazyLock<&'static [u8]> =
+    LazyLock::new(|| match Dict::get("lb.txt").unwrap().data {
+        Cow::Borrowed(s) => s,
+        Cow::Owned(_) => unreachable!(),
+    });
 
 #[derive(Embed)]
 #[folder = "dicts/"]
 struct Dict;
 
-pub fn load_words() -> Vec<Vec<u8>> {
-    let data = Dict::get("lb.txt").unwrap().data;
-    data.split(|b| *b == b'\n')
-        .map(|line| line.strip_suffix(b"\r").unwrap_or(line).to_owned())
-        .filter(|line| !line.is_empty())
-        .collect()
+pub fn load_words() -> impl Iterator<Item = &'static [u8]> {
+    let foo = DICT
+        .split(|b| *b == b'\n')
+        .map(|line| line.strip_suffix(b"\r").unwrap_or(line))
+        .filter(|line| !line.is_empty());
+    foo
 }
 
 #[derive(Copy, Clone, Debug, Eq, PartialEq)]

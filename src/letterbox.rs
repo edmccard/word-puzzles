@@ -30,10 +30,9 @@ impl Puzzle {
 
     pub fn solutions<'a>(
         &self,
-        words: &'a [Vec<u8>],
-    ) -> impl Iterator<Item = (&'a Vec<u8>, &'a Vec<u8>)> {
+        words: impl Iterator<Item = &'static [u8]>,
+    ) -> impl Iterator<Item = (&'static [u8], &'static [u8])> {
         words
-            .iter()
             .filter(move |w| self.valid_word(w))
             .combinations(2)
             .filter_map(move |p| {
