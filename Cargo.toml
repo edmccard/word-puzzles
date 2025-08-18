@@ -6,4 +6,4 @@ default-run = "letterbox"
 
 [dependencies]
 itertools = "0.14.0"
-rust-embed="8.7.2"
+rust-embed= { version = "8.7.2", features = ["debug-embed"] }
